@@ -1,0 +1,15 @@
+name\rwthompson\movie_system\dao\MovieDAO.class
+name\rwthompson\movie_system\controller\MovieDirectorController.class
+name\rwthompson\movie_system\controller\MovieRatingsController.class
+name\rwthompson\movie_system\controller\MovieController.class
+name\rwthompson\movie_system\Application.class
+name\rwthompson\movie_system\dao\DirectorDAO.class
+name\rwthompson\movie_system\dao\RatingsDAO.class
+name\rwthompson\movie_system\objects\Rating.class
+name\rwthompson\movie_system\controller\Controller.class
+name\rwthompson\movie_system\controller\DirectorController.class
+name\rwthompson\movie_system\dao\MovieDirectorDAO.class
+name\rwthompson\movie_system\objects\Director.class
+name\rwthompson\movie_system\objects\MovieDirector.class
+name\rwthompson\movie_system\objects\Movie.class
+name\rwthompson\movie_system\helper\DatabaseHelper.class
